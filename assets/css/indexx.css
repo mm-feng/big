@@ -1,0 +1,34 @@
+.layui-icon,
+.iconfont {
+  margin-right: 10px;
+}
+.layui-icon {
+  margin-left: 10px;
+}
+.layui-footer{
+    text-align: center;
+}
+.info{
+    width: 100%;
+    height: 100%;
+}
+.via{
+    margin-right: 10px;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color:skyblue;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 16px;
+}
+#center{
+    text-align: center;
+    padding: 6px 0;
+    border-bottom: 1px solid hotpink;
+}
+
+.welcome {
+  font-size: 12px;
+}
